@@ -29,3 +29,8 @@ Each Button serves its function which is defined by the software sketch.
 - PlaySwitch - This switch starts or stops the currently assigned mp3 file.
 - SkipSwitch - This switch moves on to the next mp3 file. 
 
+## Enclosure design 
+
+First drawn to accommodate all desired functionality, then revised and modeled on SOLIDWORKS to accommodate measurements and design changes. 
+<img src= "docs/initial drawing.png">
+<img src= "docs/modelImage.jpg">
